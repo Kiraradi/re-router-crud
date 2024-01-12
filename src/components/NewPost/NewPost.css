@@ -1,0 +1,18 @@
+.new-post {
+    display: flex;
+    width: 90%;
+    max-width: 1000px;
+    margin: 3rem auto;
+    justify-content: center;
+}
+
+.new-post-form {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    width: 60%;
+}
+
+.new-post-button {
+    cursor: pointer;
+}
